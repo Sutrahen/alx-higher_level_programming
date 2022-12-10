@@ -3,16 +3,16 @@
 """
 roman_to_int = __import__('12-roman_to_int').roman_to_int
 
-if type(roman_number) = str:
-    roman_number = "X"
-    print("{} = {}".format(roman_number, roman_to_int(roman_number)))
-    roman_number = "VII"
-    print("{} = {}".format(roman_number, roman_to_int(roman_number)))
-    roman_number = "IX"
-    print("{} = {}".format(roman_number, roman_to_int(roman_number)))
-    roman_number = "LXXXVII"
-    print("{} = {}".format(roman_number, roman_to_int(roman_number)))
-    roman_number = "DCCVII"
-    print("{} = {}".format(roman_number, roman_to_int(roman_number)))
+if type(roman_string) = str:
+    roman_string = "X"
+    print("{} = {}".format(roman_number, roman_to_int(roman_string)))
+    roman_string = "VII"
+    print("{} = {}".format(roman_number, roman_to_int(roman_string)))
+    roman_string = "IX"
+    print("{} = {}".format(roman_number, roman_to_int(roman_string)))
+    roman_string = "LXXXVII"
+    print("{} = {}".format(roman_number, roman_to_int(roman_string)))
+    roman_string = "DCCVII"
+    print("{} = {}".format(roman_number, roman_to_int(roman_string)))
 else:
     print(0)
